@@ -1,0 +1,4 @@
+org\example\repository\TutorialRepository.class
+org\example\SpringBootJpaH2Application.class
+org\example\controller\TutorialController.class
+org\example\model\Tutorial.class
